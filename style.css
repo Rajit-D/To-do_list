@@ -50,7 +50,7 @@ body {
 
 .log input[type="email"]:hover,
 .log input[type="password"]:hover {
-    width: 230px;
+    width: 210px;
     border-color: #2ece71;
 }
 
